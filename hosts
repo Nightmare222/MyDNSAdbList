@@ -57,7 +57,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.adtng.com
 0.0.0.0 autoimg.strpst.com
 0.0.0.0 r-eu.tsyndicate.com
-
+0.0.0.0 affiliate.dtiserv.com
+0.0.0.0 pxl.tsyndicate.com
 # End yoyo.org
 
 # blacklist
