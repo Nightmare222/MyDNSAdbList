@@ -39,8 +39,8 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 al.dmm.co.jp
 0.0.0.0 al.dmm.com
+0.0.0.0 ixd.dmm.com
 0.0.0.0 pc-adroute.focas.jp
-0.0.0.0 rcv.ixd.dmm.com
 0.0.0.0 ap.octopuspop.com
 0.0.0.0 rt.gsspat.jp
 0.0.0.0 spnativeapi.i-mobile.co.jp
@@ -59,7 +59,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 autoimg.strpst.com
 0.0.0.0 r-eu.tsyndicate.com
 0.0.0.0 pxl.tsyndicate.com
-
 0.0.0.0 dlv.itmedia.jp
 
 # End yoyo.org
