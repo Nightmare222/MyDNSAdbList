@@ -62,6 +62,9 @@
 0.0.0.0 l.hyenadata.com
 0.0.0.0 d.socdm.com
 0.0.0.0 i.socdm.com
+0.0.0.0 d.amoad.com
+0.0.0.0 j.amoad.com
+
 
 #https://d3ward.github.io/toolz/adblock
 0.0.0.0 analyticsengine.s3.amazonaws.com
