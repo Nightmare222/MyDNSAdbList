@@ -46,13 +46,9 @@
 0.0.0.0 ap.octopuspop.com
 0.0.0.0 rt.gsspat.jp
 0.0.0.0 spnativeapi.i-mobile.co.jp
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 s2.2mdn.net
 0.0.0.0 rtb-useast-v4.ezmob.com
-0.0.0.0 go.xlivrdr.com
 0.0.0.0 go.xlviiirdr.com
-0.0.0.0 creative.xlviirdr.com
 0.0.0.0 chaturbate.com
 0.0.0.0 b.arm796.com
 0.0.0.0 affiliate.dtiserv.com
@@ -64,6 +60,8 @@
 0.0.0.0 dlv.itmedia.jp
 0.0.0.0 tact-seo.com
 0.0.0.0 l.hyenadata.com
+0.0.0.0 d.socdm.com
+0.0.0.0 i.socdm.com
 
 #https://d3ward.github.io/toolz/adblock
 0.0.0.0 analyticsengine.s3.amazonaws.com
